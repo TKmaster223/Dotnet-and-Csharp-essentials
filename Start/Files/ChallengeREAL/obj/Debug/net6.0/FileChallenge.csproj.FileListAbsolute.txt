@@ -1,0 +1,15 @@
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\FileChallenge\bin\Debug\net6.0\FileChallenge.exe
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\FileChallenge\bin\Debug\net6.0\FileChallenge.deps.json
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\FileChallenge\bin\Debug\net6.0\FileChallenge.runtimeconfig.json
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\FileChallenge\bin\Debug\net6.0\FileChallenge.dll
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\FileChallenge\bin\Debug\net6.0\FileChallenge.pdb
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\FileChallenge\obj\Debug\net6.0\FileChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\FileChallenge\obj\Debug\net6.0\FileChallenge.AssemblyInfoInputs.cache
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\FileChallenge\obj\Debug\net6.0\FileChallenge.AssemblyInfo.cs
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\FileChallenge\obj\Debug\net6.0\FileChallenge.csproj.CoreCompileInputs.cache
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\FileChallenge\obj\Debug\net6.0\FileChallenge.sourcelink.json
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\FileChallenge\obj\Debug\net6.0\FileChallenge.dll
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\FileChallenge\obj\Debug\net6.0\refint\FileChallenge.dll
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\FileChallenge\obj\Debug\net6.0\FileChallenge.pdb
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\FileChallenge\obj\Debug\net6.0\FileChallenge.genruntimeconfig.cache
+C:\Users\musa tukur\Farouk Musa Tukur BU22CIT7159\Challenge-Solution\FileChallenge\obj\Debug\net6.0\ref\FileChallenge.dll

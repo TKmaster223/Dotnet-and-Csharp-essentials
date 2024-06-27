@@ -1,0 +1,14 @@
+C:\Users\musa tukur\Downloads\Start\Start\Files\Directories\bin\Debug\net6.0\Directories.exe
+C:\Users\musa tukur\Downloads\Start\Start\Files\Directories\bin\Debug\net6.0\Directories.deps.json
+C:\Users\musa tukur\Downloads\Start\Start\Files\Directories\bin\Debug\net6.0\Directories.runtimeconfig.json
+C:\Users\musa tukur\Downloads\Start\Start\Files\Directories\bin\Debug\net6.0\Directories.dll
+C:\Users\musa tukur\Downloads\Start\Start\Files\Directories\bin\Debug\net6.0\Directories.pdb
+C:\Users\musa tukur\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musa tukur\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.AssemblyInfoInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.AssemblyInfo.cs
+C:\Users\musa tukur\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.csproj.CoreCompileInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.dll
+C:\Users\musa tukur\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\refint\Directories.dll
+C:\Users\musa tukur\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.pdb
+C:\Users\musa tukur\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\Directories.genruntimeconfig.cache
+C:\Users\musa tukur\Downloads\Start\Start\Files\Directories\obj\Debug\net6.0\ref\Directories.dll

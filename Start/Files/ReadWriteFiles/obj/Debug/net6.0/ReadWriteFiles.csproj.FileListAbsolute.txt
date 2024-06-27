@@ -1,0 +1,14 @@
+C:\Users\musa tukur\Downloads\Start\Start\Files\ReadWriteFiles\bin\Debug\net6.0\ReadWriteFiles.exe
+C:\Users\musa tukur\Downloads\Start\Start\Files\ReadWriteFiles\bin\Debug\net6.0\ReadWriteFiles.deps.json
+C:\Users\musa tukur\Downloads\Start\Start\Files\ReadWriteFiles\bin\Debug\net6.0\ReadWriteFiles.runtimeconfig.json
+C:\Users\musa tukur\Downloads\Start\Start\Files\ReadWriteFiles\bin\Debug\net6.0\ReadWriteFiles.dll
+C:\Users\musa tukur\Downloads\Start\Start\Files\ReadWriteFiles\bin\Debug\net6.0\ReadWriteFiles.pdb
+C:\Users\musa tukur\Downloads\Start\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musa tukur\Downloads\Start\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.AssemblyInfoInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.AssemblyInfo.cs
+C:\Users\musa tukur\Downloads\Start\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.csproj.CoreCompileInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.dll
+C:\Users\musa tukur\Downloads\Start\Start\Files\ReadWriteFiles\obj\Debug\net6.0\refint\ReadWriteFiles.dll
+C:\Users\musa tukur\Downloads\Start\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.pdb
+C:\Users\musa tukur\Downloads\Start\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ReadWriteFiles.genruntimeconfig.cache
+C:\Users\musa tukur\Downloads\Start\Start\Files\ReadWriteFiles\obj\Debug\net6.0\ref\ReadWriteFiles.dll

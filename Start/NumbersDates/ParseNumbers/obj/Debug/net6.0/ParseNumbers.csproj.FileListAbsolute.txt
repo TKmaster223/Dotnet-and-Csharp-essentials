@@ -1,0 +1,15 @@
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.csproj.AssemblyReference.cache
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.AssemblyInfoInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.AssemblyInfo.cs
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.csproj.CoreCompileInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.exe
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.deps.json
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.runtimeconfig.json
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.dll
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\ParseNumbers\bin\Debug\net6.0\ref\ParseNumbers.dll
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.pdb
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.dll
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ref\ParseNumbers.dll
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.pdb
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.genruntimeconfig.cache

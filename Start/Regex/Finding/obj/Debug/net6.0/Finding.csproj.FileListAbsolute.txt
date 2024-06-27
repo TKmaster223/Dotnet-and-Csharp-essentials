@@ -1,0 +1,14 @@
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Finding\obj\Debug\net6.0\Finding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Finding\obj\Debug\net6.0\Finding.AssemblyInfoInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Finding\obj\Debug\net6.0\Finding.AssemblyInfo.cs
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Finding\obj\Debug\net6.0\Finding.csproj.CoreCompileInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Finding\bin\Debug\net6.0\Finding.exe
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Finding\bin\Debug\net6.0\Finding.deps.json
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Finding\bin\Debug\net6.0\Finding.runtimeconfig.json
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Finding\bin\Debug\net6.0\Finding.dll
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Finding\bin\Debug\net6.0\Finding.pdb
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Finding\obj\Debug\net6.0\Finding.dll
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Finding\obj\Debug\net6.0\refint\Finding.dll
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Finding\obj\Debug\net6.0\Finding.pdb
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Finding\obj\Debug\net6.0\Finding.genruntimeconfig.cache
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Finding\obj\Debug\net6.0\ref\Finding.dll

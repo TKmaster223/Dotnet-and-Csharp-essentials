@@ -1,0 +1,14 @@
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.exe
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.deps.json
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.runtimeconfig.json
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.dll
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.pdb
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.AssemblyInfoInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.AssemblyInfo.cs
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.csproj.CoreCompileInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.dll
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\ref\FormatNumbers.dll
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.pdb
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.genruntimeconfig.cache
+C:\Users\musa tukur\Downloads\Start\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\refint\FormatNumbers.dll

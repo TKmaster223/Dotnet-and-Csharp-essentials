@@ -1,0 +1,14 @@
+C:\Users\musa tukur\Downloads\Start\Start\Files\FileInfo\bin\Debug\net6.0\FileInfo.exe
+C:\Users\musa tukur\Downloads\Start\Start\Files\FileInfo\bin\Debug\net6.0\FileInfo.deps.json
+C:\Users\musa tukur\Downloads\Start\Start\Files\FileInfo\bin\Debug\net6.0\FileInfo.runtimeconfig.json
+C:\Users\musa tukur\Downloads\Start\Start\Files\FileInfo\bin\Debug\net6.0\FileInfo.dll
+C:\Users\musa tukur\Downloads\Start\Start\Files\FileInfo\bin\Debug\net6.0\FileInfo.pdb
+C:\Users\musa tukur\Downloads\Start\Start\Files\FileInfo\obj\Debug\net6.0\FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musa tukur\Downloads\Start\Start\Files\FileInfo\obj\Debug\net6.0\FileInfo.AssemblyInfoInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\Files\FileInfo\obj\Debug\net6.0\FileInfo.AssemblyInfo.cs
+C:\Users\musa tukur\Downloads\Start\Start\Files\FileInfo\obj\Debug\net6.0\FileInfo.csproj.CoreCompileInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\Files\FileInfo\obj\Debug\net6.0\FileInfo.dll
+C:\Users\musa tukur\Downloads\Start\Start\Files\FileInfo\obj\Debug\net6.0\refint\FileInfo.dll
+C:\Users\musa tukur\Downloads\Start\Start\Files\FileInfo\obj\Debug\net6.0\FileInfo.pdb
+C:\Users\musa tukur\Downloads\Start\Start\Files\FileInfo\obj\Debug\net6.0\FileInfo.genruntimeconfig.cache
+C:\Users\musa tukur\Downloads\Start\Start\Files\FileInfo\obj\Debug\net6.0\ref\FileInfo.dll

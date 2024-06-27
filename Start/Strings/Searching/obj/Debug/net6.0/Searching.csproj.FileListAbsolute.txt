@@ -1,0 +1,15 @@
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Searching\bin\Debug\net6.0\Searching.exe
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Searching\bin\Debug\net6.0\Searching.deps.json
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Searching\bin\Debug\net6.0\Searching.runtimeconfig.json
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Searching\bin\Debug\net6.0\Searching.dll
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Searching\bin\Debug\net6.0\ref\Searching.dll
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Searching\bin\Debug\net6.0\Searching.pdb
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.csproj.AssemblyReference.cache
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.AssemblyInfoInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.AssemblyInfo.cs
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.csproj.CoreCompileInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.dll
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Searching\obj\Debug\net6.0\ref\Searching.dll
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.pdb
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Searching\obj\Debug\net6.0\Searching.genruntimeconfig.cache

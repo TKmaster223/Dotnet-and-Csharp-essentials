@@ -1,0 +1,14 @@
+C:\Users\musa tukur\Downloads\Start\Start\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.exe
+C:\Users\musa tukur\Downloads\Start\Start\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.deps.json
+C:\Users\musa tukur\Downloads\Start\Start\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.runtimeconfig.json
+C:\Users\musa tukur\Downloads\Start\Start\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.dll
+C:\Users\musa tukur\Downloads\Start\Start\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.pdb
+C:\Users\musa tukur\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musa tukur\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.AssemblyInfoInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.AssemblyInfo.cs
+C:\Users\musa tukur\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.csproj.CoreCompileInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.dll
+C:\Users\musa tukur\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\refint\GarbageCollect.dll
+C:\Users\musa tukur\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.pdb
+C:\Users\musa tukur\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.genruntimeconfig.cache
+C:\Users\musa tukur\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\ref\GarbageCollect.dll

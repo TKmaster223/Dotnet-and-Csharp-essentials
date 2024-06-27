@@ -1,0 +1,14 @@
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.exe
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.deps.json
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.runtimeconfig.json
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.dll
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.pdb
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.AssemblyInfoInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.AssemblyInfo.cs
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.csproj.CoreCompileInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.dll
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Replacing\obj\Debug\net6.0\refint\Replacing.dll
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.pdb
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.genruntimeconfig.cache
+C:\Users\musa tukur\Downloads\Start\Start\Regex\Replacing\obj\Debug\net6.0\ref\Replacing.dll

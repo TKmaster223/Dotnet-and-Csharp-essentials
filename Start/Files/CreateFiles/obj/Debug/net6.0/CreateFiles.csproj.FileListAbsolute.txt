@@ -1,0 +1,14 @@
+C:\Users\musa tukur\Downloads\Start\Start\Files\CreateFiles\bin\Debug\net6.0\CreateFiles.exe
+C:\Users\musa tukur\Downloads\Start\Start\Files\CreateFiles\bin\Debug\net6.0\CreateFiles.deps.json
+C:\Users\musa tukur\Downloads\Start\Start\Files\CreateFiles\bin\Debug\net6.0\CreateFiles.runtimeconfig.json
+C:\Users\musa tukur\Downloads\Start\Start\Files\CreateFiles\bin\Debug\net6.0\CreateFiles.dll
+C:\Users\musa tukur\Downloads\Start\Start\Files\CreateFiles\bin\Debug\net6.0\CreateFiles.pdb
+C:\Users\musa tukur\Downloads\Start\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musa tukur\Downloads\Start\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.AssemblyInfoInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.AssemblyInfo.cs
+C:\Users\musa tukur\Downloads\Start\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.csproj.CoreCompileInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.dll
+C:\Users\musa tukur\Downloads\Start\Start\Files\CreateFiles\obj\Debug\net6.0\ref\CreateFiles.dll
+C:\Users\musa tukur\Downloads\Start\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.pdb
+C:\Users\musa tukur\Downloads\Start\Start\Files\CreateFiles\obj\Debug\net6.0\CreateFiles.genruntimeconfig.cache
+C:\Users\musa tukur\Downloads\Start\Start\Files\CreateFiles\obj\Debug\net6.0\refint\CreateFiles.dll

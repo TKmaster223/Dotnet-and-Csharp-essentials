@@ -1,0 +1,14 @@
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.exe
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.deps.json
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.runtimeconfig.json
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.dll
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.pdb
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.AssemblyInfoInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.AssemblyInfo.cs
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.dll
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\refint\Interpolation.dll
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.pdb
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.genruntimeconfig.cache
+C:\Users\musa tukur\Downloads\Start\Start\Strings\Interpolation\obj\Debug\net6.0\ref\Interpolation.dll

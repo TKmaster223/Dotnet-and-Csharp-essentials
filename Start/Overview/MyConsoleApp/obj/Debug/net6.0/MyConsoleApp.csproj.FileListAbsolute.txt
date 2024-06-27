@@ -1,0 +1,14 @@
+C:\Users\musa tukur\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musa tukur\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\musa tukur\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\musa tukur\Downloads\Start\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.exe
+C:\Users\musa tukur\Downloads\Start\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.deps.json
+C:\Users\musa tukur\Downloads\Start\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.runtimeconfig.json
+C:\Users\musa tukur\Downloads\Start\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.dll
+C:\Users\musa tukur\Downloads\Start\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.pdb
+C:\Users\musa tukur\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.dll
+C:\Users\musa tukur\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\refint\MyConsoleApp.dll
+C:\Users\musa tukur\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.pdb
+C:\Users\musa tukur\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\musa tukur\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\ref\MyConsoleApp.dll
